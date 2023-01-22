@@ -3,3 +3,11 @@ matplotlib
 pandas
 wordcloud
 numpy
+seaborn
+urlextract
+wordcloud
+emoji
+collections
+nltk
+re 
+datetime
