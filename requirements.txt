@@ -6,8 +6,6 @@ numpy
 seaborn
 urlextract
 wordcloud
-emoji == 1.7.0
-collections
+emoji==1.7.0
+streamlit
 nltk
-re 
-datetime
