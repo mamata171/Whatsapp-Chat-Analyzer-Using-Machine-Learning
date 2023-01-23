@@ -3,6 +3,7 @@ import numpy as np
 from urlextract import URLExtract
 from wordcloud import WordCloud
 import emoji
+import nltk
 from collections import Counter
 from nltk.corpus import stopwords
 nltk.download('stopwords')
