@@ -5,6 +5,7 @@ from wordcloud import WordCloud
 import emoji
 from collections import Counter
 from nltk.corpus import stopwords
+nltk.download('stopwords')
 sw = stopwords.words('english')
 
 
